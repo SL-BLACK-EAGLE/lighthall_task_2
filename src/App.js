@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold py-6 pl-6">03 - The task Tracker</h1>
+      <h1 className="text-2xl font-bold py-6 pl-6">02 - The task Tracker</h1>
       <p className="text-xl pl-6">Hi there!</p>
       <div className="flex flex-row items-center">
         <p className="text-xl pl-6"> Click</p>
